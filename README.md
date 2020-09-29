@@ -1,2 +1,2 @@
 # DBproject
-DataBase of a Ffood delivery system
+DataBase of a food delivery system
